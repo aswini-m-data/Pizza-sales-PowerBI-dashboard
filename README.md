@@ -33,8 +33,7 @@ An interactive Power BI dashboard that analyzes sales performance across multipl
 
 ## Files Included
 
-- Delicious_Pizza_Sales.pbix (Power BI file)
-- Screenshot image (dashboard preview)
+- Delicious_Pizza_Sales.pbix (https://github.com/aswini-m-data/Pizza-sales-PowerBI-dashboard/raw/refs/heads/main/DeliciousPizzaFinal.pbix)
 
 ---
 
