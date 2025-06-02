@@ -29,7 +29,7 @@ An interactive Power BI dashboard that analyzes sales performance across multipl
 
 ## Screenshot
 
-![Delicious Pizza Sales Dashboard]
+![Delicious Pizza Sales Dashboard](https://github.com/aswini-m-data/Pizza-sales-PowerBI-dashboard/blob/main/Screenshot%202025-06-01%20200027.png?raw=true)
 
 ## Files Included
 
